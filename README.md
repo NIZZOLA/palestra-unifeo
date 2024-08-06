@@ -1,5 +1,5 @@
 # Palestra Unifeo
-Palestra apresentada na Unifeo em 06/08/2024
+Palestra apresentada na Unifieo em 06/08/2024
 
 
 ## Fotos da Palestra - "Como utilizar inteligência artificial numa aplicação .NET ?" de Márcio Rogério Nizzola
